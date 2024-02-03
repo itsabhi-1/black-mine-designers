@@ -1,0 +1,269 @@
+.pd_section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-shadow: 0 -1px #d9d9d9 inset;
+}
+
+.pd_img {
+    width: 100%;
+    height: 546px;
+    overflow: hidden;
+}
+
+.pd_img img {
+    width: 100%;
+    height: 100%;
+    /* aspect-ratio: 16/9; */
+}
+
+.pd_heading {
+    text-transform: uppercase;
+    font-size: 22px;
+    width: auto;
+    letter-spacing: .2em;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    margin-bottom: 0;
+    text-align: left;
+    line-height: 1.65;
+}
+
+.pd_price {
+    margin: 0;
+    margin-top: 10px;
+    font-size: 19px;
+    text-align: left;
+    font-family: Lato, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    line-height: 1.65;
+}
+
+
+
+.pd_detail>:nth-child(2) {
+    display: block;
+    margin-top: 24px;
+}
+
+.pd_color {
+    display: block;
+    padding: 10px 14px;
+    width: 100%;
+    border: 1px solid #d9d9d9;
+    text-align: left;
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    line-height: 1.65;
+    text-transform: uppercase;
+}
+
+.pd_size {
+    font-family: Lato, sans-serif;
+
+}
+
+/* <------------------size field start----------------------> */
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root {
+    font-family: Lato, sans-serif !important;
+    text-transform: uppercase !important;
+    color: #000000 !important;
+    letter-spacing: .2em !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-radius: 0px !important;
+}
+
+/* .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root {} */
+
+/* ---------------------------- */
+.pd_count {
+    width: fit-content;
+    margin-top: 10px;
+}
+
+/* --------------------btns------------- */
+.pd_btn {
+    color: #fff !important;
+    font-family: Lato, sans-serif;
+    background: transparent;
+    font-weight: 700;
+    font-size: 12px;
+    text-align: center;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    line-height: normal;
+    display: block;
+    padding: 14px 28px;
+    border-radius: 0px;
+    margin-top: 10px;
+    border: 1px solid #000 !important;
+    position: relative;
+    z-index: 1;
+    text-decoration: none;
+    transition: color .45s cubic-bezier(.785, .135, .15, .86), border .45s cubic-bezier(.785, .135, .15, .86);
+    cursor: pointer;
+}
+
+.pd_btn::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transform-origin: left center;
+    transition: transform 0.4s ease;
+    transform: scaleX(1);
+}
+
+.pd_btn:hover::before {
+    color: #000;
+    transform-origin: right;
+    transition: transform 0.4s ease;
+    transform: scaleX(0);
+}
+
+.pd_btn:hover {
+    color: black !important;
+    background-color: #fff;
+    transition: 0.3s;
+}
+.pd_white > .pd_btn{
+    color: #000000 !important;
+}
+.pd_white > .pd_btn:hover::before{
+    color: #fff !important;
+}
+.pd_white > .pd_btn:hover{
+    color: #fff !important;
+    background-color: #000 !important;
+}
+.pd_white > .btn-primary::before{
+    background-color: #fff !important;
+}
+
+/* ------------product Accordion start-------- */
+.accordion_pd{
+    border: 0px !important;
+    border: 1px solid #d9d9d9 !important;
+}
+.accordion_pd_btn:focus{
+    box-shadow: none;
+}
+.accordion_pd_btn:not(.collapsed),
+.accordion-icon-color{
+    color: #000;
+    background-color: #fff;
+
+    
+}
+.accordion_pd_btn{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+}
+.accordion_pd_body{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.accordion_pd_body > p {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.pd_acc_detail{
+    display: block;
+    color: #000;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .1em;
+    padding: 0 8px;
+}
+.pd_acc_detail_span{
+    display: inline-block;
+    width: 40%;
+    color: #747474;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .1em;
+    padding: 0 8px;
+}
+.pd_acc_discription_span{
+    display: inline-block;
+    width: 40%;
+    color: #747474;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .1em;
+    padding: 0 8px;
+}
+.pd_acc_artist_span{
+    display: block;
+    color: #747474;
+    font-size: 16px;
+    text-align: justify;
+    text-transform: uppercase;
+    font-family: Lato, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .1em;
+    padding: 0 8px;
+}
+/* ------------------------prodcduct slider start----------------------- */
+.slider_pd_img{
+    width: 100%;
+    height: 546px;
+    overflow: hidden;
+    padding-bottom: 10px;
+}
+.slider_pd_img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+}
+
+@media only screen and (min-width: 992px) {
+    .pd_detail{
+        position: sticky;
+        top: 25%;
+        z-index: 2;
+    }
+}
+/* @media only screen and (max-width: 992px) {
+    .pd_detail{
+        margin-top: 10px;
+    }
+} */

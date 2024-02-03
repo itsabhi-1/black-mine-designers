@@ -1,0 +1,25 @@
+.tn{
+    background-color: #000;
+}
+.tn_announcement_heading{
+    position: relative;
+    padding: 12px 15px ;
+    text-align: center;
+    z-index: 3;
+}
+.tn_announcement_heading >p{
+    margin:0 ;
+    font-size: 10px;
+    font-family: Lato,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #fff;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+@media screen and (min-width: 641px){
+    .tn_announcement_heading >p{
+        font-size: 11px ;
+    }
+}

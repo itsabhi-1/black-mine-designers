@@ -1,0 +1,119 @@
+.about_us{
+    box-shadow: 0 -1px #d9d9d9 inset;
+}
+.about_main{
+    padding: 70px 0;
+}
+.about_heading{
+    color: #000;
+    font-size: 16px;
+    text-align: center;
+    font-family: Lato,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    margin: 0;
+}
+.about_img{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+.about_img img{
+    width: 100%;
+    height: 100%;
+    /* aspect-ratio: 1/1; */
+    object-fit: cover;
+}
+.about_main_det{
+    text-align: justify;
+    padding-left: 10px;
+    /* border-left: 3px solid #d9d9d9; */
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+    letter-spacing: .1em;
+    font-family: Lato,sans-serif;
+}
+/* --------------cards----------- */
+.about_service{
+    text-align: center !important;
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+.about_service::before{
+    border-left: 5px solid #dddddd;
+    border-top: 5px solid #dddddd;
+    content: "";
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 50px;
+}
+.about_service::after{
+    border-bottom: 5px solid #dddddd;
+    border-right: 5px solid #dddddd;
+    bottom: 0;
+    content: "";
+    height: 50px;
+    position: absolute;
+    right: 0;
+    width: 50px;
+}
+.about_service >i{
+    display: inline-block;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+.about_service_detail{
+    margin-top: 30px;
+}
+.about_service_detail>h3{
+    margin: 0;
+    font-size: 16px;
+    text-align: center;
+    font-family: Lato,sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.about_service_detail>p{
+    text-align: center;
+    margin-top: 10px;
+    padding: 0px;
+    /* border-left: 3px solid #d9d9d9; */
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+    letter-spacing: .1em;
+    font-family: Lato,sans-serif;
+
+}
+
+@media screen and (max-width:992px) {
+    .about_main_det{
+        margin-top: 30px;
+        padding: 0;
+    }
+    .about_service_card{
+        margin: 30px 0;
+    }
+    .about_service_detail>p{
+        padding: 0 15px;
+        text-align: justify;
+    }
+}
+@media screen and (max-width:575px) {
+    .about_service_detail>p{
+        padding: 0 15px;
+        text-align: center;
+    }
+}

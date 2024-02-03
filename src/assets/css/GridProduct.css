@@ -1,0 +1,103 @@
+/* -----page grid start------- */
+.product_grid{
+    box-shadow: 0 -1px #d9d9d9 inset;
+    padding-bottom: 50px;
+}
+.product_fluid{
+    padding: 0;
+}
+.product_grid_bg{
+    position: relative;
+    background-attachment: fixed;
+    z-index: 1;
+    background: rgba(0,0,0,0) url(../../assets/image/productGrid//bg01.jpg);
+    position: relative;
+    background-repeat: no-repeat;
+    min-height: 450px;
+    background-size: cover;
+    background-position: bottom;
+}
+.product_grid_bg::after{
+    position: absolute;
+    background-color: rgba(8,11,26,.5);
+    content: "";
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.pd_grid_main_heading{
+    font-size: 24px;
+    margin: 40px 0;
+    text-align: center;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+.pd_grid_card{
+    height: 600px;
+    padding: 10px 0;
+}
+.product_grid_img{
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}
+.product_grid_img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    aspect-ratio: 9/16;
+}
+.product_grid_detail{
+    height: 20%;
+}
+/* -------------------btn---------- */
+.product_grid_btn{
+    height: 10%;
+}
+.product_grid_heading{
+    width: fit-content;
+    line-height: 2em;
+    text-transform: uppercase;
+    padding-top: 20px;
+    margin-bottom: 4px;
+    font-size: 12px;
+    text-align: center;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .3em;
+}
+.product_grid_price{
+    margin: 0;
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: center;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: #000;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+}
+.product_grid_btn{
+    text-align: center;
+}
+/* -----pagination------- */
+.css-1oj2twp-MuiPagination-root{
+    margin-top: 40px !important;
+
+}
+.css-wjh20t-MuiPagination-ul{
+    justify-content: center;
+}
+

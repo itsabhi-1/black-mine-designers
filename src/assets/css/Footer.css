@@ -1,0 +1,96 @@
+.cl_footer {
+    padding: 75px 0 42px;
+}
+
+.footer_heading {
+    margin-bottom: 20px;
+    color: #000;
+    font-size: 15px;
+    font-weight: 700;
+    font-style: normal;
+    transition: color .2s ease-in-out;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+}
+
+.footer_detail p {
+    margin: 0;
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+    letter-spacing: .1em;
+}
+
+/* ---------------------------------- */
+.footer_email>input {
+    display: inline;
+    padding: 12px 14px;
+    border-radius: 0;
+    border: 1px solid #d9d9d9;
+    width: 80%;
+    line-height: normal;
+    resize: none;
+    transition: border-color .1s ease-in-out;
+    background: transparent;
+
+}
+
+.footer_email>input:focus {
+    border-color: #404040 !important;
+    border-radius: 0 !important;
+}
+
+.footer_email>input:focus-visible {
+    outline: no;
+}
+
+.footer_email>button {
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    margin-top: 20px;
+    padding: 14px 28px;
+    line-height: normal;
+    border: 1px solid #000 !important;
+    border-radius: 0;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+    letter-spacing: .2em;
+    font-family: Lato, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    background: transparent;
+    transition: transform .45s cubic-bezier(.785, .135, .15, .86);
+    z-index: 1;
+    cursor: pointer;
+}
+
+.footer_email>button::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    transform-origin: left center;
+    transition: transform 0.4s ease;
+    transform: scaleX(1);
+
+}
+
+.footer_email>button:hover::before {
+    color: #000;
+    transform-origin: right;
+    transition: transform 0.4s ease;
+    transform: scaleX(0);
+}
+
+.footer_email>button:hover {
+    color: black !important;
+    background-color: #fff;
+    transition: 0s;
+}

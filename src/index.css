@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+  font-family: lato, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  font-family: Lato, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  /* color: #000; */
+  /* background: white; */
+  line-height: 1.65;
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+* {
+  box-sizing: border-box !important;
+  -webkit-font-smoothing: antialiased;
+}
+
+*::selection {
+  background-color: black;
+  color: white;
+  /* Optional: Set the text color when selected */
+}
+
+p {
+  font-size: inherit;
+}
+a:hover{
+  color: black;
+}
+.btn-primary:focus,
+.btn-primary:focus-visible{
+  box-shadow: none;
+  border-radius: 0 !important;
+  outline: none !important;
+}
+.btn-primary:active:focus{
+  box-shadow: none;
+}

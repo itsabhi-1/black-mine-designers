@@ -1,0 +1,285 @@
+[
+    {
+        "id": 1,
+        "name": "black mine | Joker: Wanted Men Oversized Hoodies",
+        "price": 1699,
+        "color": "black",
+        "thumb": "passets/productImage/product01.jpg",
+        "images": [
+            "../passets/products/1/image1.jpg",
+            "../passets/products/1/image2.jpg",
+            "../passets/products/1/image3.jpg",
+            "../passets/products/1/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "Black Mine is proud to present Official DC Comics' Justice League Merchandise in association with Warner Bros. Created by our superhuman team of designers, our products are sure to make you feel like a superhero. All our products which include t-shirts, mobile covers, boxers, badges, backpacks, tote bags etc. have been thoroughly tested for attacks from the evilest of super-villains. Next time you're walking on the streets sporting our awesome products and you're mistaken for Superman or Batman or The Flash or Aquaman or Green Lantern or Wonder Woman, you know who to thank! Shop from a wide collection of official Superhero t-shirts and other merchandise only at Black Mine."
+    },
+    {
+        "id": 2,
+        "name": "black mine | Spiderman: Beyond Amazing Men Oversized Hoodies",
+        "price": 2199,
+        "color": "black",
+        "thumb": "passets/productImage/product02.jpg",
+        "images": [
+            "../passets/products/2/image1.jpg",
+            "../passets/products/2/image2.jpg",
+            "../passets/products/2/image3.jpg",
+            "../passets/products/2/image4.jpg",
+            "../passets/products/2/image5.jpg",
+            "../passets/products/2/image6.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Dry Clean",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Spiderman: Beyond Amazing Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "In 1939, Marvel Comics’ precursor ‘Timely Comics’ was founded by Martin Goodman. Timely’s first comic book was ‘Marvel Comics no. 1’ and featured the Human Torch and the Sub-Mariner. During the ‘Golden Age of Comics’ in the 1940s, Timely Comics introduced many notable characters like Captain America.  As the 1940s came to close, superhero comics fell out of fashion. In 1951, Timely Comics became Atlas Magazines and its output was in genres like humour, horror and science fiction. During the late 1950s, the ‘Silver Age of Comics’ was ushered by Marvel’s rival, DC Comics. In the 1960s, Atlas renamed itself as Marvel and revolutionised superhero comics. Stan Lee and Jack Kirby are often credited for introducing superheroes that appealed to older readers and heralding the ‘Marvel Age of Comics’. The strength of Marvel Universe lies in the fact that the characters introduced, though are superheroes, are rooted in real-world and seem relatable. Their superheroes are often flawed, freaks and misfits - a break from the then-prevalent athletic, handsome and perfect superheroes. Spider-Man was a highschool student, Steve Rogers was bullied, Hulk looked like a monster - characteristics like these struck a chord with older readers and soon Marvel Comics found itself a loyal and ever-growing fanbase in not only kids but also young adults and adults."
+    },
+    {
+        "id": 3,
+        "name": "black mine | Marvel: Wakanda Heritage Oversized Pullovers",
+        "price": 1699,
+        "color": "black & grey",
+        "thumb": "passets/productImage/product03.jpg",
+        "images": [
+            "../passets/products/3/image1.jpg",
+            "../passets/products/3/image2.jpg",
+            "../passets/products/3/image3.jpg",
+            "../passets/products/3/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "100% Acrylic Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Marvel: Wakanda Heritage Oversized Pullovers at Black Mine.",
+        "ArtistDetails": "In 1939, Marvel Comics’ precursor ‘Timely Comics’ was founded by Martin Goodman. Timely’s first comic book was ‘Marvel Comics no. 1’ and featured the Human Torch and the Sub-Mariner. During the ‘Golden Age of Comics’ in the 1940s, Timely Comics introduced many notable characters like Captain America.  As the 1940s came to close, superhero comics fell out of fashion. In 1951, Timely Comics became Atlas Magazines and its output was in genres like humour, horror and science fiction. During the late 1950s, the ‘Silver Age of Comics’ was ushered by Marvel’s rival, DC Comics. In the 1960s, Atlas renamed itself as Marvel and revolutionised superhero comics. Stan Lee and Jack Kirby are often credited for introducing superheroes that appealed to older readers and heralding the ‘Marvel Age of Comics’. The strength of Marvel Universe lies in the fact that the characters introduced, though are superheroes, are rooted in real-world and seem relatable. Their superheroes are often flawed, freaks and misfits - a break from the then-prevalent athletic, handsome and perfect superheroes. Spider-Man was a highschool student, Steve Rogers was bullied, Hulk looked like a monster - characteristics like these struck a chord with older readers and soon Marvel Comics found itself a loyal and ever-growing fanbase in not only kids but also young adults and adults."
+    },
+    {
+        "id": 4,
+        "name": "black mine | TSS Originals Men Oversized Hoodies Just Black",
+        "price": 1699,
+        "color": "black ",
+        "thumb": "passets/productImage/product04.jpg",
+        "images": [
+            "../passets/products/4/image1.jpg",
+            "../passets/products/4/image2.jpg",
+            "../passets/products/4/image3.jpg",
+            "../passets/products/4/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for TSS Originals: Just Black Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 5,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 1599,
+        "color": "berry",
+        "thumb": "passets/productImage/product05.jpg",
+        "images": [
+            "../passets/products/5/image1.jpg",
+            "../passets/products/5/image2.jpg",
+            "../passets/products/5/image3.jpg",
+            "../passets/products/5/image4.jpg",
+            "../passets/products/5/image5.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for TSS Originals: Berry Blast Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 6,
+        "name": "black mine | TSS Originals: Burgundy Checks Oversized Pullovers",
+        "price": 1699,
+        "color": "Burgundy Checks",
+        "thumb": "passets/productImage/product06.jpg",
+        "images": [
+            "../passets/products/6/image1.jpg",
+            "../passets/products/6/image2.jpg",
+            "../passets/products/6/image3.jpg",
+            "../passets/products/6/image4.jpg"     
+        ],
+        "productDetail":{
+            "MaterialCare": "100% Acrylic Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for TSS Originals: Red Checks Oversized Pullovers at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 7,
+        "name": "black mine | TSS Originals: Burgundy Bliss Men Oversized Hoodies",
+        "price": 1299,
+        "color": "TSS Originals: Burgundy Bliss",
+        "thumb": "passets/productImage/product07.jpg",
+        "images": [
+            "../passets/products/7/image1.jpg",
+            "../passets/products/7/image2.jpg",
+            "../passets/products/7/image3.jpg",
+            "../passets/products/7/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for TSS Originals: Burgundy Bliss Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 8,
+        "name": "black mine | Solids: Pink Men Oversized Hoodies",
+        "price": 1299,
+        "color": "Pink",
+        "thumb": "passets/productImage/product08.jpg",
+        "images": [
+            "../passets/products/8/image1.jpg",
+            "../passets/products/8/image2.jpg",
+            "../passets/products/8/image3.jpg",
+            "../passets/products/8/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Solids: Pink Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 9,
+        "name": "black mine | TSS Originals: Sandstone Men Oversized Sweatshirts",
+        "price": 899,
+        "color": "Sandstone",
+        "thumb": "passets/productImage/product09.jpg",
+        "images": [
+            "../passets/products/9/image1.jpg",
+            "../passets/products/9/image2.jpg",
+            "../passets/products/9/image3.jpg",
+            "../passets/products/9/image4.jpg",
+            "../passets/products/9/image5.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe"
+    },
+    {
+        "id": 10,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 2999,
+        "color": "black",
+        "thumb": "passets/productImage/product05.jpg",
+        "images": [
+            "../passets/products/5/image1.jpg",
+            "../passets/products/5/image2.jpg",
+            "../passets/products/5/image3.jpg",
+            "../passets/products/5/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 11,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 2999,
+        "color": "black",
+        "thumb": "passets/productImage/product06.jpg",
+        "images": [
+            "../passets/products/6/image1.jpg",
+            "../passets/products/6/image2.jpg",
+            "../passets/products/6/image3.jpg",
+            "../passets/products/6/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 12,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 2999,
+        "color": "black",
+        "thumb": "passets/productImage/product03.jpg",
+        "images": [
+            "../passets/products/3/image1.jpg",
+            "../passets/products/3/image2.jpg",
+            "../passets/products/3/image3.jpg",
+            "../passets/products/3/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 13,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 2999,
+        "color": "black",
+        "thumb": "passets/productImage/product04.jpg",
+        "images": [
+            "../passets/products/4/image1.jpg",
+            "../passets/products/4/image2.jpg",
+            "../passets/products/4/image3.jpg",
+            "../passets/products/4/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    },
+    {
+        "id": 14,
+        "name": "black mine | Men black & White Solid Round Neck Pure Cotton T-shirt",
+        "price": 2999,
+        "color": "black",
+        "thumb": "passets/productImage/product05.jpg",
+        "images": [
+            "../passets/products/5/image1.jpg",
+            "../passets/products/5/image2.jpg",
+            "../passets/products/5/image3.jpg",
+            "../passets/products/5/image4.jpg"
+        ],
+        "productDetail":{
+            "MaterialCare": "60% Cotton 40% Polyester Machine Wash",
+            "CountryOrigin": "India (and proud)",
+            "Manufactured": "Black Mine Pvt. Ltd. 224, Tantia Jogani Industrial Premises J.R. Boricha Marg Lower Parel (E) Mumbai - 11"
+        },
+        "ProductDescription": "Shop for Joker: Wanted! Men Oversized Hoodies at Black Mine.",
+        "ArtistDetails": "The Souled Store was born out of a simple idea - love what you do and follow your soul! Thus, our goal is to give everyone something they'll love, something they can use to express themselves, and, simply put, something to put a smile on their face. So, whether it's superheroes like Superman, TV shows like F.R.I.E.N.D.S, pop culture, music, sports, or quirky, funny stuff you're looking for, we have something for everyone. TSS Originals or The Souled Store Originals is our exclusive range of funny, funky, trendy and stylish designs. Designed by our kick-ass team of in-house designers, TSS Originals are some cool and quirky designs that help you speak your vibe."
+    }
+]
